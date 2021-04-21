@@ -4,6 +4,8 @@ Welcome to Food Lab
 
 Pasta
 Pizza
+Garlic Bread
+French Fries
 
 Basundi-Puri
 Amras-Puri
