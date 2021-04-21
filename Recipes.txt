@@ -3,5 +3,7 @@
 Welcome to Food Lab
 
 Pasta
+Pizza
+
 Basundi-Puri
 Amras-Puri
